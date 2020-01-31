@@ -1,11 +1,12 @@
-# xlr8
+# xlr8 - SIH '20
 
-#### Team: Ayush Yembarwar, Nikhil Khandelwal, Disha Jain, Ajinkya Vyas
+#### Team: Ajinkya Vyas, Ayush Yembarwar, Disha Jain, Divya Padte, Nikhil Khandelwal, Satyavrat Sharma
+#### Team Snowball
 #### College: BITS Pilani, Pilani Campus
 
 ##### Demo Link: [Python Anywhere](https://xlr8.pythonanywhere.com)
 
-Team Snowball's solution for the Mercedes-Benz Digital Challenge, India.
+Team Snowball's idea submission for the Smart India Hackathon 2020.
 
 ## Project Description
 
